@@ -1,0 +1,4 @@
+def bob(**ok):
+  print(ok)
+bob(a2=600,a1=300)
+bob(a2=2.13,a3=5.4,a1=5.45)
