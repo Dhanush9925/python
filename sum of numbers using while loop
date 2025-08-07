@@ -1,0 +1,7 @@
+x=1 
+sum=0
+s=int(input())
+while(x<s):
+  sum=sum+x
+  x=x+1 
+print("the sum of given number is",sum)
