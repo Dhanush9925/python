@@ -1,0 +1,6 @@
+x=1 
+s=int(input('enter the input: \n'))
+while(x<=s):
+  if(x%2==0):
+    print(x)
+  x=x+1  
