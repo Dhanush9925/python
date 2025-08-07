@@ -1,0 +1,6 @@
+def nbkr(dept='ece'):
+  print('the dept is',dept)
+nbkr('mech')
+nbkr('cse')
+nbkr()
+nbkr('eee')
