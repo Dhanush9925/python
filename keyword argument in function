@@ -1,0 +1,4 @@
+def raja(s2,s1,s3):
+  print(s1,s2,s3)
+raja(s1=43,s2=64,s3=84)
+raja(s3='arjun',s2='ramana',s1='ajay')
