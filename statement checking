@@ -1,0 +1,11 @@
+a=10
+b=20
+c=30
+print(a<b)
+print(a>b)
+print(a<=c)
+print(c>=30)
+print(c==25)
+print(b==20)
+print(a!=10)
+print(b!=15)
