@@ -1,0 +1,10 @@
+def happy(ll):
+  s=0
+  for i in range(len(ll)):
+    s=s+ll[i]
+  avg=s//len(ll)
+  return s,avg
+x1=[20,5,25,50]
+x2=[64,63,74,93,27,43]
+print(happy(x1))
+print(happy(x2))
